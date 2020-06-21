@@ -10,7 +10,7 @@ import com.crm.qa.base.Testbase;
 import com.crm.qa.pages.HomePage;
 import com.crm.qa.pages.LoginPage;
 import com.crm.qa.utils.TestUtil;
-
+//TestNG class
 public class LoginpageTest extends Testbase{
 	LoginPage loginpage;
 	HomePage homepage;
