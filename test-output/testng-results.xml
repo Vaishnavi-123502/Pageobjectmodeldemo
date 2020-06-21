@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FREE CRM Application Test Automation Test Suite" duration-ms="102969" started-at="2020-06-21T09:10:20Z" finished-at="2020-06-21T09:12:03Z">
+    <groups>
+    </groups>
+    <test name="Free CRM App Test Cases" duration-ms="102969" started-at="2020-06-21T09:10:20Z" finished-at="2020-06-21T09:12:03Z">
+      <class name="com.crm.qa.testcases.LoginpageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginpageTest@7cd62f43]" name="setup" is-config="true" duration-ms="25496" started-at="2020-06-21T09:10:20Z" finished-at="2020-06-21T09:10:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="navigatetologinpage()[pri:1, instance:com.crm.qa.testcases.LoginpageTest@7cd62f43]" name="navigatetologinpage" duration-ms="10454" started-at="2020-06-21T09:10:46Z" finished-at="2020-06-21T09:10:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetologinpage -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.LoginpageTest@7cd62f43]" name="teardown" is-config="true" duration-ms="1414" started-at="2020-06-21T09:10:56Z" finished-at="2020-06-21T09:10:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginpageTest@7cd62f43]" name="setup" is-config="true" duration-ms="12746" started-at="2020-06-21T09:11:01Z" finished-at="2020-06-21T09:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logintohomepage(java.lang.String, java.lang.String)[pri:2, instance:com.crm.qa.testcases.LoginpageTest@7cd62f43]" name="logintohomepage" duration-ms="9968" started-at="2020-06-21T09:11:14Z" data-provider="getCRMTestData" finished-at="2020-06-21T09:11:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fsdg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gsdgsdgsdg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintohomepage -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.LoginpageTest@7cd62f43]" name="teardown" is-config="true" duration-ms="1018" started-at="2020-06-21T09:11:24Z" finished-at="2020-06-21T09:11:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginpageTest@7cd62f43]" name="setup" is-config="true" duration-ms="18946" started-at="2020-06-21T09:11:25Z" finished-at="2020-06-21T09:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logintohomepage(java.lang.String, java.lang.String)[pri:2, instance:com.crm.qa.testcases.LoginpageTest@7cd62f43]" name="logintohomepage" duration-ms="15899" started-at="2020-06-21T09:11:44Z" data-provider="getCRMTestData" finished-at="2020-06-21T09:11:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sgs]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sggsg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintohomepage -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.LoginpageTest@7cd62f43]" name="teardown" is-config="true" duration-ms="3953" started-at="2020-06-21T09:11:59Z" finished-at="2020-06-21T09:12:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.crm.qa.testcases.LoginpageTest -->
+    </test> <!-- Free CRM App Test Cases -->
+  </suite> <!-- FREE CRM Application Test Automation Test Suite -->
+</testng-results>
